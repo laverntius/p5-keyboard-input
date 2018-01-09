@@ -9,11 +9,11 @@ function draw() {
      background(255,0,0);
      }
      
-     if(key=="r"){
-        background(50);
+     if(key=="g"){
+        background(0,255,0);
      }    
     if(key=="b"){
-        background(50);
+        background(0,0,255);
     } 
     
     if(keyCode==32){
